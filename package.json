@@ -1,7 +1,7 @@
 {
-  "name": "bancoman2",
+  "name": "search-demo",
   "version": "1.0.0",
-  "description": "Esta es una aplicación para bancoman",
+  "description": "Esta es una aplicación para buscar",
   "main": "index.js",
   "author": "Felipe Ramírez",
   "license": "MIT",
